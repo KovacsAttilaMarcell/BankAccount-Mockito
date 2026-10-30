@@ -1,0 +1,11 @@
+# Maven fordítási fájlok
+target/
+
+# IntelliJ IDEA projektbeállítások
+.idea/
+*.iml
+
+# Egyéb generált fájlok
+*.log
+.DS_Store
+Thumbs.db
